@@ -1,0 +1,140 @@
+{
+  "headers": [
+    {
+      "textKey": "headers.text.front_page",
+      "link": "headers.link.front"
+    },
+    {
+      "textKey": "headers.text.search_cvr",
+      "link": "headers.link.search"
+    },
+    {
+      "textKey": "headers.text.help_virk",
+      "link": "headers.link.virkopedia"
+    }
+  ],
+  "footer": [
+    {
+      "columnLinks": [
+        "footer.first_column.topics",
+        "footer.first_column.find_self_or",
+        "footer.first_column.authotities",
+        "footer.first_column.find_self"
+      ]
+    },
+    {
+      "columnLinks": [
+        "footer.second_column.contact_cvr",
+        "footer.second_column.cookies",
+        "footer.second_column.find_self",
+        "footer.second_column.personal",
+        "footer.second_column.declaration"
+      ]
+    },
+    {
+      "columnLinks": [
+        "footer.third_column.virk",
+        "footer.third_column.new_rules",
+        "footer.third_column.privacy",
+        "footer.third_column.security",
+        "footer.third_column.cvrdk"
+      ]
+    }
+  ],
+  "virkopediaData": [
+    {
+      "title": "virkopedia.title.acquisition",
+      "content": "virkopedia.content.aquisition"
+    },
+    {
+      "title": "virkopedia.title.advance",
+      "content": "virkopedia.content.profit"
+    },
+    {
+      "title": "virkopedia.title.annuity",
+      "content": "virkopedia.content.the_term"
+    },
+    {
+      "title": "virkopedia.title.asset",
+      "content": "virkopedia.content.an_asset"
+    },
+    {
+      "title": "virkopedia.title.atp_contribution",
+      "content": "virkopedia.content.atp_contribution"
+    },
+    {
+      "title": "virkopedia.title.beta",
+      "content": "virkopedia.content.beta"
+    }
+  ],
+  "landingPageData": [
+    {
+      "numberOfColumns": "placeholders.number.of.columns.row.one",
+      "titleColumnOne": "placeholders.title.column.one.row.one",
+      "contentColumnOne": "placeholders.content.column.one.row.one",
+      "titleColumnTwo": "placeholders.title.column.two.row.one",
+      "contentColumnTwo": "placeholders.content.column.two.row.one",
+      "titleColumnThree": "placeholders.title.column.three.row.one",
+      "contentColumnThree": "placeholders.content.column.three.row.one"
+    },
+    {
+      "numberOfColumns": "placeholders.number.of.columns.row.two",
+      "titleColumnOne": "placeholders.title.column.one.row.two",
+      "contentColumnOne": "placeholders.content.column.one.row.two",
+      "titleColumnTwo": "placeholders.title.column.two.row.two",
+      "contentColumnTwo": "placeholders.content.column.two.row.two"
+    },
+    {
+      "numberOfColumns": "placeholders.number.of.columns.row.three",
+      "titleColumnOne": "placeholders.title.column.one.row.three",
+      "contentColumnOne": "placeholders.content.column.one.row.three"
+    }
+  ],
+  "companiesData": [
+    {
+      "uid": "company.uid.one",
+      "cvrNumber": "company.cvrnumber.one",
+      "companyName": "company.name.one",
+      "address": "company.address.one",
+      "postNoCity": "company.postno.city.one",
+      "companyType": "company.type.one",
+      "status": "company.status.one"
+    },
+    {
+      "uid": "company.uid.two",
+      "cvrNumber": "company.cvrnumber.two",
+      "companyName": "company.name.two",
+      "address": "company.address.two",
+      "postNoCity": "company.postno.city.two",
+      "companyType": "company.type.two",
+      "status": "company.status.two"
+    },
+    {
+      "uid": "company.uid.three",
+      "cvrNumber": "company.cvrnumber.three",
+      "companyName": "company.name.three",
+      "address": "company.address.three",
+      "postNoCity": "company.postno.city.three",
+      "companyType": "company.type.three",
+      "status": "company.status.three"
+    },
+    {
+      "uid": "company.uid.four",
+      "cvrNumber": "company.cvrnumber.four",
+      "companyName": "company.name.four",
+      "address": "company.address.four",
+      "postNoCity": "company.postno.city.four",
+      "companyType": "company.type.four",
+      "status": "company.status.four"
+    },
+    {
+      "uid": "company.uid.five",
+      "cvrNumber": "company.cvrnumber.five",
+      "companyName": "company.name.five",
+      "address": "company.address.five",
+      "postNoCity": "company.postno.city.five",
+      "companyType": "company.type.five",
+      "status": "company.status.five"
+    }
+  ]
+}
